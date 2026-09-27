@@ -1,5 +1,6 @@
 # red-apoyo-oncologico-app
-## 🎨 Prototipo del Proyecto en Figma
+## Prototipo del Proyecto en Figma
 Puedes revisar y probar el prototipo interactivo de la aplicación móvil en Figma a través de los siguientes enlaces:
+[![Figma](https://img.shields.io/badge/Figma-Prototipo_Móvil-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/ArFJgsRMkSPx9ynuS6EP2q/Ingeneria-Web-y-Movil?node-id=0-1&t=wJgUQyJEX9MYP6sl-1)
 
-[![Figma](https://www.figma.com/design/ArFJgsRMkSPx9ynuS6EP2q/Ingeneria-Web-y-Movil?node-id=0-1&t=wJgUQyJEX9MYP6sl-1)]
+> **Enlace directo:** [Ver Prototipo Interactivo en Figma](https://www.figma.com/design/ArFJgsRMkSPx9ynuS6EP2q/Ingeneria-Web-y-Movil?node-id=0-1&t=wJgUQyJEX9MYP6sl-1)
